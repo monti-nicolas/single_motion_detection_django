@@ -26,3 +26,4 @@ Please note that the port (8000) might be different on your own machine.
 
 The end result should look something like the below image.
 
+![alt text](https://github.com/monti-nicolas/single_motion_detection_django/blob/main/SingleMotionDetection_Django/images_example/result.png)
