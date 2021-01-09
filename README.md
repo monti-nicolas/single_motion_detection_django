@@ -16,8 +16,8 @@ Please note that the above command should be run on the directory where manage.p
 If everything went well, you should see the below message:
 
 Django version 2.2.5, using settings 'mysite.settings'
-Starting development server at http://127.0.0.1:8000/
-Quit the server with CTRL-BREAK.
+<br> Starting development server at http://127.0.0.1:8000/
+<br> Quit the server with CTRL-BREAK.
 
 In order to access the test web page that will display the video feed with a single motion detection you should type the below url on your browser:
 http://127.0.0.1:8000/motion_dection/motion
